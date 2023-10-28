@@ -23,6 +23,6 @@ Feel free to reach out if you want to collaborate, discuss a project, or just ch
 
 ## 📊 My GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FloppaRunners&show_icons=true&count_private=true&theme=radical)](https://github.com/FloppaRunners)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=k3psi&show_icons=true&count_private=true&theme=radical)](https://github.com/k3psi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloppaRunners&layout=compact&theme=radical)](https://github.com/FloppaRunners)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3psi&layout=compact&theme=radical)](https://github.com/k3psi)
