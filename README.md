@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm K3psi! 👋
 
 I'm a passionate Python developer with over 6 years of experience in creating software and applications. I love turning ideas into code and solving real-world problems through technology.
 
